@@ -37,21 +37,32 @@ Now open **step3.ino** (replace with proper name later). And try uploading this.
 Binary sketch size: 444 bytes (of a 32,256 byte maximum)
 ```
 
-Lets look closer at the standard code that forms the basis of every working sketch. 
+####Sketch fundamentals
+Lets look closer at the standard code that forms the basis of every working sketch. Firstly lets look at the comments:
 
-Firstly lets look at the comments.  In most programming languages specific character combinations are used to signify comments written in the code. These are ignored by the compiler (or parser) and their use is to help us humans.  In C a multi-line comment is started with **/\* ** and ended with **\*/ **and single line comments are signified with **//**.  Use comments as much as you can to help yourself and others understand and follow your code.
+```
+Comments section put here
+```
+
+In most programming languages specific character combinations are used to signify comments. These are ignored by the compiler (or parser) and they are used only to help us humans.  In C a multi-line comment is started with **/\*** and ended with **\*/** and single line comments are signified with **//**.  Use comments as much as you can to help yourself and others understand and follow your code.
 
 The first non-comment section is :
+
+```
 Void setup() {
 }
+```
 
-void setup()
-means that you are declaring (or creating) and function called setup.  In arduino some functions like digitalWrite are already defined so there’s no need to define them in your sketch. You must or can define other functions for yourself.  Setup and loop are two functions you must declare in every sketch that you write. 
+This shows the correct syntax for declaring (or creating) a function called **setup**.  In arduino some functions like **digitalWrite** are already defined so there’s no need to define them in your sketch. You must *or* can define other functions for yourself.  **setup** and **loop** are the two functions you must declare in every sketch that you write and together these form the basic structure of an arduino sketch. 
 
 { figure showing the  statement with explanations}
 
+N.B. Add explaniation inspired by SM intro book p34 in here:
 The word “void” indicates that nothing is returned by the function. Some functions return values whiles others do not. 
 
+####Learn To Get The Help You Need
+It is possible to learn just about anything from freely available resources on the internet. The key question is knowing which resoruces to use. This course is complete and we believe provides the fastest and most powerful way to learn. There is though one  resource that we recommend is used for enhancing and suporting your learning on this course. 
+- [Arduino Language Reference](www.arduino.cc/en/Reference/Setup) This is a concise and well written guide on the arduino language. As the course prgresses we'll refer to relevant pages on it. Please end by taking a look at the Language Reference Site and the descriptions for the **setup()** and **loop** functions in particular.  As the course progresses further references will be made to this resource. 
 
 
 ##Programming Section
@@ -90,4 +101,4 @@ A) seconds
 B) milli seconds
 C) hours 
 
-see www.arduino.cc/en/Reference/Setup
+
