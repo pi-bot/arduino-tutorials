@@ -2,12 +2,6 @@
 
 **Wire up an LED and make it blink! ** *What is a MicroController?*
 
-
-
-
-###Lesson Content Start
-
-
 ##1-1-1 Getting Started
 
 Microcontrollers are complete computer systems-on-a-chip designed for measurement, command, and control. In this first step we'll place  an illuminating LED into a circuit and use the microcontroller to control it.  
