@@ -1,10 +1,9 @@
-##SECTION 1 
-This index outlines the Pibot robot course.  There are there parts: 
-
+###Intro
+This index outlines the full Pibot physical computing course. The aim is that its possible to run this course over a peroiod of 8 weeks. 
 
 Each step to robot mastery will have a physical **doing** element, a **knowledge** elements as well as a programming **skill** element. This way *physical computing*, *electronics* and *programming*, are learned at the same time. 
 
-###Gaining Robot Powers: Bringing your Robot to Life
+##1: Gaining Robot Powers. Bringing your Robot to Life
 
 1. **Let there be light!** Wire up an LED and make it blink! *What is a MicroController?*
 2. **Controll your robots brightness** First steps in speaking robot (aka learning programming in C)
@@ -13,7 +12,7 @@ Each step to robot mastery will have a physical **doing** element, a **knowledge
 5. **Show us your moves** Give your robot muscles. *converting data to action*
 6. **Learning to move** Control high power motors.*Making changes in the world* 
 
-###Harmony. Coordinate your robot powers 
+##2 Harmony. Co-ordinating and Extending Robot Powers 
 **Not yet defined**   
 -Incorporate the remaining hardware and sensors.( Stepper Motor, Neopixels & Ultrasound)
 -Introduce Libraries and using code in a modular way.e.g.
@@ -22,7 +21,7 @@ Each step to robot mastery will have a physical **doing** element, a **knowledge
 8. **Sensing the world** Measure and distance. *Filtering data to remove errors*
  Other Things to measuring Temperature -Potential Additions: -Measuring Humidity , -3 Axis accelerometers -IMU -Digital compass -GPS modules -Encoders
 
-###3: Control is key .
+##3: Control is key. Change the world in the way that you want. 
 **Not yet defined**  
 --Clarify that microcontrollers are about measurement and control. Control systems are the heart of robotics.  Intoduce controll. Systems
 9.**Let the robot take control** Make a program that keeps a given distance from an object.*Learn how to deal with fluctuations*
