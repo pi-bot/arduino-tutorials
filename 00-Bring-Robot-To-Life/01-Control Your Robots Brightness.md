@@ -7,7 +7,7 @@ What kind of robot are you?
 ```
 If we press *upload* we'll see there's some problems with this:  
 
-The Arduino IDE checks the code to see if it it uses correct language and it will complain if there's an issue. Finding  **errors** and **fixing errors** are a major part of programming and its helpful using a development environment that can catch errors.  You can see that with our natural human text the IDE is not happy:
+The Arduino IDE checks the code to look for errors and it will complain if there are any issues. Finding  **errors** and **fixing errors** are a major part of programming and its very helpful for our development environment to catch these errors. (IDE stands for Integrated Development Environment).    You can see that with our natural human text the IDE is not happy:
 
 ```
 Put Error Code HERE
