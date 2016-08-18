@@ -1,7 +1,5 @@
 ###Purpose:
-To create a user guide and learning content for people to learn arduino (C++) and microcontrollers with the Pi Bot.
-
-The course will be marketed under the general message of : Build, play, and learn technology with robotics! Build and program an awesome PiBot and learn fantastic skills: inc. programming, physical computing and robotics!
+To create a user guide and learning content for people to learn arduino (C++) and microcontrollers with the Pi Bot.The course will be marketed under the general message of : **Build, play, and learn technology with robotics!** Build and program an awesome PiBot and learn fantastic skills: inc. programming, physical computing and robotics!
 
 ###Objectives:
 Empower and educate future engineers with knowledge and skills in arduino and microcontrollers. This is in integral to the PiBot learning platform that also integrates Physical computing and robotics with the Raspberry Pi.  
