@@ -1,4 +1,4 @@
-**Not yet defined**
+**Not yet fully defined**
 
 ###Control and Automation - The Heart of Robotics
 
