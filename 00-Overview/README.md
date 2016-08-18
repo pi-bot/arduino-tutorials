@@ -17,25 +17,25 @@ Starting from the basics and progressively learning to control more and more sen
 
 Suggested Lessons: 
 
-1: Writing your first sketch: Make a sketch to make an LED blink
+1. Writing your first sketch: Make a sketch to make an LED blink
 On the breadboard connecting a resistor and led 
 Control the onboard led.   (explain the difference between breadboard components, and SMD components)
-2) Using PWM to control the brightness of the LED. Make a new sketch that adds 
-3) Using PWM to control a servo (Also explain what a servo is)
-4) Controlling DC motors.  Powering your robot! 
-4b) Libraries and using code in a modular way. Learn the benefit of libraries and modular design. Turn previous lessons (leds, servos, DC motors) into libraries and make sketch that combines all of them into one. 
-5) Controlling a Stepper Motor 
-6) Controlling  a neopixel. A neopixel uses 3 colored leds in a tiny package. By altering 
+2. Using PWM to control the brightness of the LED. Make a new sketch that adds 
+3. Using PWM to control a servo (Also explain what a servo is)
+4. Controlling DC motors.  Powering your robot! 
+4b. Libraries and using code in a modular way. Learn the benefit of libraries and modular design. Turn previous lessons (leds, servos, DC motors) into libraries and make sketch that combines all of them into one. 
+5. Controlling a Stepper Motor 
+6. Controlling  a neopixel. A neopixel uses 3 colored leds in a tiny package. By altering 
 Now we will learn about sensors and taking information in from the world
-7) Ultrasound.  Learning to measure distance 
-8) Measuring Temperature 
-Potential Additions:
-Measuring Humidity ,
-3 Axis accelerometers 
-IMU
-Digital compass
-GPS modules
-Encoders 
+7. Ultrasound.  Learning to measure distance 
+8. Measuring Temperature 
+-Potential Additions:
+-Measuring Humidity ,
+-3 Axis accelerometers 
+-IMU
+-Digital compass
+-GPS modules
+-Encoders 
 
 
 Part 2: Communicating with microcontrollers:
