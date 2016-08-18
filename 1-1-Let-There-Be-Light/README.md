@@ -69,7 +69,7 @@ Getting started with the arduino IDE and uploading your first sketch.
 Intro to the IDE and the first sketch:
 
 ##Robotics Tab - Inner Workings of a Microcontroller.  
-The PiBot uses a microcontoller 
+The PiBot uses an arduino compatible microcontoller chip (model 328P). There are kinds of microcontrollers and the 328P is perhaps the best and most widley used microcontroller for getting started with.    
 
 
 
