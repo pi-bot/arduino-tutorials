@@ -30,10 +30,10 @@ Unless the learners are using very big or multi-monitor displays it makes sense 
 Robotics in multi-disciplined as are the skills that people increasingly value in work. For example to be a good architect communication and management skills may be just a important as drawing or technical knowledge. Increasingly its valuable to learn technology *at the same time* as other skills. This course intends to give great value by facilitating and inspiring learning in several areas at the same time.  Our task is to find the best way to present, integrate, or blend these different areas of learning together.  
 
 Whilst the delivery interface is not yet complete we can already consider make distinctions between different areas of learning. This, for example, could be then be presented on diffferent tabs. e.g.:
--**Physical Computing**. Laying out and connection of physical components 
--**Coding**. Using the arduino IDE to learn C and programming.
--**Electronics** Learn about the electronics at play in the lesson.
--**IT & Robotics** Learn key theory and information technology aspects to the lesson. 
+- **Physical Computing**. Laying out and connection of physical components 
+- **Coding**. Using the arduino IDE to learn C and programming.
+- **Electronics** Learn about the electronics at play in the lesson.
+- **IT & Robotics** Learn key theory and information technology aspects to the lesson. 
 
 When this course is delivered teachers/educators can choose what they would like to include as well as being able to customise the  the content.  (e.g. they could remove the electronics tab if they did not want to include this).
 
