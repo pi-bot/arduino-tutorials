@@ -56,14 +56,15 @@ The word “void” indicates that nothing is returned by the function. Some fun
 
 ##Programming Section
 
-Put more details about coding here: 
+The arduiono uses a subset of the C language. C is one of the most prolific and widely used languages in the world. The arduino subset of this makes it easier to learn the language quickly and start using it with physical computing.  All the code your learn for programming an arduino will form a solid basis for learning and extending your knowledge of C and many other related languages. The syntax and patterns of C have influenced many other languages including C++ python and javascript. This makes it quicker to learn other languages once you have become familiar with C. 
 
 ####What Kind Of Language is C?
-C is the first
+ C is a compiled language that maps efficiently to machine instructions.  This ‘lower level’ language was first made to create the Unix Operating System in the early 1970’s.  IT is well suited for replacing applications that before would have used assembly language.  It is widely used for coding operating systems, as well as various applications for a wide range of systems, from supercomputers to small embedded systems. It has been around since the 70’s and is very standardized and stable.  Most of the code and applications on your Raspberry Pi, including Linux has been written in C. 
 
 
 
 
+#### Random Notes Not sure what to do with this
 
 
 An example of a function that does return a value :
