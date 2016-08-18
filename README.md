@@ -9,14 +9,35 @@ Learn core knowledge and principles of Information Technology and its relationsh
 Learn the basics of programming in C. 
 This work will integrate into a complete set of learning material that will include lessons in using linux, programming languages, electronics, digital making and creation. 
 
-I suggest the material can be developed here on GitHub.  Basic formatting can be done using Github Flavored Markdown and can be converted to HTML later. (A basic guide to the Markdown can be found [basic writing and formatting syntax:] (https://help.github.com/articles/basic-writing-and-formatting-syntax/).  Tools for converting to HTML are [here](https://github.com/github/markup) and [here](https://github.com/joeyespo/grip)
+I suggest the material can be developed here on GitHub.  Basic formatting can be done using Github Flavored Markdown and can be converted to HTML later. (A basic guide to the Markdown can be found [basic writing and formatting syntax:] (https://help.github.com/articles/basic-writing-and-formatting-syntax/). 
 
 ###Course Content:
-The Arduino IDE will be used to **learn-by-doing** as the learner programs the microcontroller and develops robot powers!  Starting from the basics and a simple led we'll progressively learn electronics and how to control more and more sensors and actuators. 
-Starting from the basics and progressively learning to control more and more sensors and actuators.
+The Arduino IDE will be used to **learn-by-doing** as the learner programs the microcontroller and develops robot powers!  Starting from the basics of controlling a single LED we'll progressively learn to control more and more sensors and actuators. Simultaneously the learner will develop skills in physical computing, electronics, as well as robotics and general information technology. 
 
-Suggested Lessons: 
+The goal will be to learn to command every part of the robot and do this in a co-ordinated way. This will extend to completing an API for the robot and commanding the robot from Python on the Raspberry Pi. This will enable the final task of the course that will be to control the robot remotely over the network or internet.  
 
+###Suggested Lessons: 
+
+The lesson plan has been developed and now resides as an index to this repo.  Please see the **index.md** file for this.  For reference the initial lesson plan has been appended to the end of this page. 
+
+
+
+### Developing Content:
+The content will be textual with pictures to illustrate and enhance the learning.
+
+[Fritzing](http://fritzing.org/home/) will be used to show breadboard layout and the setup of components. It will also be used to set up the schematic view.  As far as possible Illustrations will be made in **SVG** format for great page loading and clarity.   
+I will create a good looking plan of the PiBot board. 
+
+As stated the content will be made using Markdown and converted to HTML5 later for injection onto the PiBot website.
+
+##Users:  
+Who is this for: future engineers and computer scientists: The content will be made for someone wanting to learn robotics, physical computing, and IT with the PiBot.  It is designed for learners from the age of 13 and upwards and should include adults as well. If the content would serve and make sense to someone like you then that would work! As the audience and user base becomes clearer and known the content can always be optimised and adjusted to suite. 
+
+
+##Delivery:
+In the first delivery phase it will be taught as part of an 8 weeks course. This will be the opportunity to test the content and get feedback from it.  The course final release will be delivered online through a web app/ website. This will be developed from now and all content will be presented as part of a website as soon as possible.  The course material will be hosted on GitHub. A convention will be made used for the text and content and the material will be automatically pushed online to a beta environment. 
+
+####Legacy Initial Lesson Plan 
 1. Writing your first sketch: Make a sketch to make an LED blink
 On the breadboard connecting a resistor and led 
 Control the onboard led.   (explain the difference between breadboard components, and SMD components)
@@ -36,45 +57,3 @@ Now we will learn about sensors and taking information in from the world
 -Digital compass
 -GPS modules
 -Encoders 
-
-
-Part 2: Communicating with microcontrollers:
-
- Create a serial interface and develop an API between the Raspberry Pi and the Arduino Microcontroller.  The real power of having a microcontroller in the system is that all lower level hardware can be abstracted and taken care o f by the microcontroller.  The Raspberry Pi can then focus on higher level code and operation (e.g. multimedia, camera, and image processing, machine vision, python, web applications, networking and links to the internet) 
-
-Create Sketch and modular system for controlling lower level hardware in python over serial and a pibot arduino API. 
-
-Part 3:  Control Systems: 
-Control Systems are a powerful. Robots are special because they operate in the ‘real world’ they have actuators to act in the world and therefore change environments or do meaningful work.  They also have sensors to gain information about the world.  The magic happens in the middle. What happens to the information and what changes are made to the actuators to perform useful work or changes.  
-Control Systems are the heart of robotics and exist as programs and algorithms.  They are the Artificial Intelligence from which the robot can perform autonomous and useful work. 
-
-Creating autonomous control in complex dynamic systems.  Incorporating 
-
-
-Content:
-The content will be text with pictures to illustrate and enhance the learning.
-Fritzing can be used to show layout and setup of components.  
-I will create a good looking plan of the PiBot board. That can also be used.
-http://fritzing.org/home/
-
-Text will be marked up using HTML5: e.g.
-
-<h1> </h1> to <h4> </h4>
-<p> </p>
-<code> </code>
-
-This can then be injected straight into the webpage.
-
-Robotics: Sensors and Actuators: 
-
-Users:  
-Who is this for: future engineers and computer scientists: The content will be made for someone wanting to learn robotics, physical computing, and IT with the PiBot.  It is designed for learners from the age of 13 and upwards and should include adults as well. If the content would serve and make sense to someone like you then that would work! As the audience and user base becomes clearer and known the content can always be optimised and adjusted to suite. 
-
-
-Delivery:
-In the first delivery phase it will be taught as part of an 8 weeks course. This will be the opportunity to test the content and get feedback from it. 
-
-The course final release will be delivered online through a web app/ website. This will be developed from now and all content will be presented as part of a website as soon as possible. 
- The course material will be hosted on GitHub. A convention will be made used for the text and content and the material will be automatically pushed online to a beta environment. 
-
-Pingit 
