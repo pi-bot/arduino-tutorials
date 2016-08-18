@@ -1,5 +1,4 @@
-####About 
-The idea is to get a user engaged and doing some thing quickly. Knowledge and skills will be given as the learner progresses.
+The **goal** is to engage a learner quickly by asking them to get active in buiding a circuit and getting something working quickly. Knowledge and skills will be given as the learner progresses.
 
 ####Setting Up The PiBot Learning Environment
 
