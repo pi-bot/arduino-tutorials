@@ -19,7 +19,7 @@ The Raspberry Pi should be built with a keyboard, mouse and monitor connected. T
 ###### Development Kit
 The PiBots breadboard and components should be laid out nearby and ready for use. 
 
-#####Software Environment
+###### Software Environment
 This course uses a customised Arduino IDE that has been pre-configured and setup for use with the PiBot IO board. This is where code is inputted and sent to the microcontroller.   (Poss This is either available on an SD card provided with your PiBot kit or can be downloaded and istalled from source at the [PiBot Github repo - to be incldued later](To be included later).
 
 ###### Seperate Inteface for Learning Content
