@@ -19,6 +19,8 @@ Each step to robot mastery will have a physical **doing** element, a **knowledge
 
 Think about how to introduce programming 1 step at a time each lesson should add something new.
 
+00 - Just upload an existing sketch and run it.  This is enough and shows and example and how code flows from Raspberry Pi to Micro.
+00 - Intro to coding in the IDE.  Learn by writing english and seeing that this will not work. Learn that programming has a very specific syntax. 
 
 
 
