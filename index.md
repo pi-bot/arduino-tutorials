@@ -32,12 +32,14 @@ Think about how to introduce programming 1 step at a time each lesson should add
 
 ##2 Harmony. Co-ordinating and Extending Robot Powers 
 **Not yet defined**   
--Incorporate the remaining hardware and sensors.( Stepper Motor, Neopixels & Ultrasound)
--Introduce Libraries and using code in a modular way.e.g.
+- Incorporate the remaining hardware and sensors.( Stepper Motor, Neopixels & Ultrasound)
+- Introduce Libraries and using code in a modular way.e.g.:
 7. **Dancing** Creating code modules. *Use all your robot powers together*
--Learn the benefit of libraries and modular design. Turn previous lessons (leds, servos, DC motors) into libraries and make sketch that combines all of them into one.
+- Learn the benefit of libraries and modular design. Turn previous lessons (leds, servos, DC motors) into libraries and make sketch that combines all of them into one. 
 8. **Sensing the world** Measure and distance. *Filtering data to remove errors*
+- Introduce the concept of feedback at a higher level using the serial interface. 
  Other Things to measuring Temperature -Potential Additions: -Measuring Humidity , -3 Axis accelerometers -IMU -Digital compass -GPS modules -Encoders
+
 
 ##3: Control is key. Change the world in the way that you want. 
 **Not yet defined**  
