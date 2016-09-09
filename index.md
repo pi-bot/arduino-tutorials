@@ -17,6 +17,9 @@ Each step to robot mastery will have a physical **doing** element, a **knowledge
 
 ### Skill Element for Part 1
 
+Think about how to introduce programming 1 step at a time each lesson should add something new.
+
+
 
 
 ##2 Harmony. Co-ordinating and Extending Robot Powers 
