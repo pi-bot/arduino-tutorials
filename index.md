@@ -3,6 +3,9 @@ This index outlines the full Pibot physical computing course. The aim is that it
 
 Each step to robot mastery will have a physical **doing** element, a **knowledge** elements as well as a programming **skill** element. This way *physical computing*, *electronics* and *programming*, are learned at the same time. 
 
+
+**Raghad Update the below structure with your new plans**
+
 ##1: Gaining Robot Powers. Bringing your Robot to Life
 
 1. **Let there be light!** Wire up an LED and make it blink! *What is a MicroController?*
@@ -11,6 +14,10 @@ Each step to robot mastery will have a physical **doing** element, a **knowledge
 4. **Switch on** Let humans be in control.*Learn how to make a function*
 5. **Show us your moves** Give your robot muscles. *converting data to action*
 6. **Learning to move** Control high power motors.*Making changes in the world* 
+
+### Skill Element for Part 1
+
+
 
 ##2 Harmony. Co-ordinating and Extending Robot Powers 
 **Not yet defined**   
