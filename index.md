@@ -8,12 +8,12 @@ Each step to robot mastery will have a physical **doing** element, a **knowledge
 
 ##1: Gaining Robot Powers. Bringing your Robot to Life
 
-0. **Let there be light!** Wire up an LED and make it blink! *What is a MicroController?*
-1. **What is speaking robot?** First steps in coding and speaking robot (aka learning programming in C)
-2. **Controll your robots brightness** Introducing PWM and Analogue Electronics.
-3. **Change the world** Let the code control a servo.  *Learn first machine signals*
-4. **Super Powers** Do big things with little signals (aka Give your robot muscles). *Learn how to trigger from user input (e.g. a button)*
-5. **Show us your moves** Learn to co-ordinate using functions. *translate motor actions into co-ordinated movement*
+- 0 **Let there be light!** Wire up an LED and make it blink! *What is a MicroController?*
+- 1 **What is speaking robot?** First steps in coding and speaking robot (aka learning programming in C)
+- 2 **Controll your robots brightness** Introducing PWM and Analogue Electronics.
+- 3 **Change the world** Let the code control a servo.  *Learn first machine signals*
+- 4 **Super Powers** Do big things with little signals (aka Give your robot muscles). *Learn how to trigger from user input (e.g. a button)*
+- 5 **Show us your moves** Learn to co-ordinate using functions. *translate motor actions into co-ordinated movement*
 
 ### Skill Element for Part 1
 
