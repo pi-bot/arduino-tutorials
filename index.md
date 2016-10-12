@@ -1,25 +1,23 @@
 ###Intro
 This index outlines the full Pibot physical computing course. The aim is that its possible to run this course over a peroiod of 8 weeks. 
 
-Each step to robot mastery will have a physical **doing** element, a **knowledge** elements as well as a programming **skill** element. This way *physical computing*, *electronics* and *programming*, are learned at the same time. 
+Each step to robot mastery will have a physical **doing** element, a **knowledge** elements as well as a programming **skill** element. This way *physical computing* and *programming* are learned at the same time. 
 
-- Physical Computing. Laying out and connection of physical components
+- Physical Computing. Laying out and connection of physical components, learning how they work and how to control them.
 - Coding. Using the arduino IDE to learn C and programming.
-- Electronics Learn about the electronics at play in the lesson.
 - IT & Robotics Learn key theory and information technology aspects to the lesson.
 
-**Raghad Update the below structure with your new plans**
 
-##1: Gaining Robot Powers. Bringing your Robot to Life
+##0: Gaining Robot Powers. Bringing your Robot to Life
 
-- 0 **Let there be light!** Wire up an LED and make it blink! *What is a MicroController?*
-- 1 **What is speaking robot?** First steps in coding and speaking robot (aka learning programming in C)
-- 2 **Controll your robots brightness** Introducing PWM and Analogue Electronics.
-- 3 **Change the world** Let the code control a servo.  *Learn first machine signals*
-- 4 **Super Powers** Do big things with little signals (aka Give your robot muscles). *Learn how to trigger from user input (e.g. a button)*
-- 5 **Show us your moves** Learn to co-ordinate using functions. *translate motor actions into co-ordinated movement*
+- 0 **Let there be light!** Wire up an LED and make it blink! *What is a MicroController?* **Key Code Lesson:** robots are controlled from text based programs. 
+- 1 **You choose when there is light! **  Introduction to the Arduino IDE. **Key Code Lesson:** What is speaking robot? First steps in coding and speaking robot (aka learning programming in C).
+- 2 **Controll your robots brightness** Introducing PWM, Analogue Electronics and binary bits.**Key Code Lesson:** Variables
+- 3 **Change the world** Let the code control a servo.  *Learn first machine signals and actuators* **Key Code Lesson:** ??
+- 4 **Super Powers** Do big things with little signals (aka Give your robot muscles). *Learn how to trigger from user input (e.g. a button)***Key Code Lesson:** If Else statement
 
-### Skill Element for Part 1
+
+###1 Skill Element for Part 1
 
 Think about how to introduce programming 1 step at a time each lesson should add something new.
 
