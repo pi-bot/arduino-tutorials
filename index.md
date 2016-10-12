@@ -3,6 +3,10 @@ This index outlines the full Pibot physical computing course. The aim is that it
 
 Each step to robot mastery will have a physical **doing** element, a **knowledge** elements as well as a programming **skill** element. This way *physical computing*, *electronics* and *programming*, are learned at the same time. 
 
+- Physical Computing. Laying out and connection of physical components
+- Coding. Using the arduino IDE to learn C and programming.
+- Electronics Learn about the electronics at play in the lesson.
+- IT & Robotics Learn key theory and information technology aspects to the lesson.
 
 **Raghad Update the below structure with your new plans**
 
