@@ -11,7 +11,7 @@ Each step to robot mastery will have a physical **doing** element (D), a **knowl
 ##0: Gaining Robot Powers. Bringing your Robot to Life
 
 - 0 **Let there be light!** (D)Wire up an LED and make it blink! *(K)What is a MicroController?* **(P)robots are controlled from text based programs. ** 
-- 1 **Turn YOUR light on! **  Introduction to the Arduino IDE. ** (P)What is speaking robot? First steps in coding and speaking robot (aka learning programming in C)** 
+- 1 **Turn YOUR light on! ** (D) Turn your own light on with your own program. *(K) What is programming what is C*  Introduction to the Arduino IDE. What is speaking robot? First steps in coding and speaking robot (aka learning programming in C)   **(P) Learn syntax, comments and error messages** 
 - 2 **Controll your brightness** (D) Control Brightness. *(K)Introducing PWM, Analogue Electronics and binary bits.* **(P) Variables **
 - 3 **Change the world** Let the code control a servo.  *Learn first machine signals and actuators* **Key Code Lesson:** ??
 - 4 **Super Powers** Do big things with little signals (aka Give your robot muscles). *Learn how to trigger from user input (e.g. a button)***Key Code Lesson:** If Else statement
