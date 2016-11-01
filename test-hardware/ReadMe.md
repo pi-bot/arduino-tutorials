@@ -3,7 +3,7 @@ This is used initially to test the PiBot board as well as all associated hardwar
 
 1. booloader (check that the bootlader can be burt to the micro) PASSED 
 2. t-serial upload (Check that Pi can upload a sketch by serial interface) PASSED
-3. t-blink (test that the IDE can run the blink sketch on pin D12)
+3. t-blink (test that the IDE can run the blink sketch with the built in LED D13)
 4. t-digitalPins (test all the pins digitally, as pins turn high or low a voltmeter is used to check the actual value)
 5. t-PWM (test PWM on D5 and D6) 
 6. t-Interupts (test the interupt functionality from the motor encoders)
