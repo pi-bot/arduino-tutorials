@@ -30,5 +30,11 @@ mv /location/of/arduino-tutorials/examples /usr/share/arduino/examples
 See the seaxples-original folder for how the directory is organised.
 
 ### Modifying the Libraries Directories
-The Libraries Directory contains a **Test-hardware** library that is used to test all the robots hardware. 
+The Libraries Directory can also be replaced and simplified for the learning course.
+The Libraries directory is found here: **/usr/share/arduino/libraries**. 
+A **Test-hardware** library is added to be used to test all the robots hardware. 
+
+```
+mv /location/of/arduino-tutorials/test-hardware /usr/share/arduino/libraries/test-hardware
+```
 
