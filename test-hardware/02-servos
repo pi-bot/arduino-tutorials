@@ -2,7 +2,7 @@
 
 Servo myservo;  // create servo object to control a servo 
 
-int servopin = 11;  // define a pin used to be connect to the control terminal of the servo
+int servopin = 5;  // define a pin used to be connect to the control terminal of the servo. Test both pin 5 and 6
 
 void setup() 
 { 
