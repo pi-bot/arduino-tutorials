@@ -6,7 +6,7 @@ The course is to be engaged with using:
 - a working raspberry pi set up 
 - the pibot development kit (breadboard, components etc)
 - the ardunio IDE set up and working on the Raspberry Pi.
-- a seperate interface to engage with the learing content. 
+- a seperate interface to engage with the learning content. 
 
 ###### Working Raspberry Pi 
 The Raspberry Pi should be built with a keyboard, mouse and monitor connected. The PiBot IO board should be attached and screwed into position on the Raspberry Pi.  The system should either be powered from an external power source through the Raspberry Pi's 5V micro USB power input or through the PiBot IO board and an Integrated PiHero Power Module. 
