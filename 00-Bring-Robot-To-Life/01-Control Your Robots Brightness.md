@@ -1,4 +1,4 @@
-###Control Your Robots Brightness
+### Control Your Robots Brightness
 
 In the first lesson we ran a sketch without knowing how its code works or hows its sent to the robot. Here is where we'll begin to learn to speak robot using a proper programming language. Arduino sketches are written in a version of the C language. Lets see what happens if we type some normal text into the Ardunino IDE and send it to the microcontroller.  In the Arduino IDE open up a new file and type the following:
 
@@ -12,7 +12,7 @@ The Arduino IDE checks the code to look for errors and it will complain if there
 ```
 Put Error Code HERE
 ```
-###Learning robot lingo
+### Learning robot lingo
 Machines do not yet speak English, Spanish, or other human languages.   Programming languages are made to communicate with machines and there are many programming languages that can be learnt.   Fortunately learning programming languages is much easier than learning a  languages, and it doesn't need to take long to learn the language of robots. 
 
 All you need to do is follow the rules of the language and practice writing code.   As soon as you learn the language you'll be  commanding your robots in no time at all! 
@@ -37,7 +37,7 @@ Now open **step3.ino** (replace with proper name later). And try uploading this.
 Binary sketch size: 444 bytes (of a 32,256 byte maximum)
 ```
 
-####Sketch fundamentals
+#### Sketch fundamentals
 Lets look closer at the standard code that forms the basis of every working sketch. Firstly lets look at the comments:
 
 ```
@@ -60,16 +60,16 @@ This shows the correct syntax for declaring (or creating) a function called **se
 N.B. Add explaniation inspired by SM intro book p34 in here:
 The word “void” indicates that nothing is returned by the function. Some functions return values whiles others do not. 
 
-####Learn To Get The Help You Need
+#### Learn To Get The Help You Need
 It is possible to learn just about anything from freely available resources on the internet. The key question is knowing which resoruces to use. This course is complete and we believe provides the fastest and most powerful way to learn. There is though one  resource that we recommend is used for enhancing and suporting your learning on this course. 
 - [Arduino Language Reference](www.arduino.cc/en/Reference/Setup) This is a concise and well written guide on the arduino language. As the course prgresses we'll refer to relevant pages on it. Please end by taking a look at the Language Reference Site and the descriptions for the **setup()** and **loop** functions in particular.  As the course progresses further references will be made to this resource. 
 
 
-##Programming Section
+## Programming Section
 
 The arduiono uses a subset of the C language. C is one of the most prolific and widely used languages in the world. The arduino subset of this makes it easier to learn the language quickly and start using it with physical computing.  All the code your learn for programming an arduino will form a solid basis for learning and extending your knowledge of C and many other related languages. The syntax and patterns of C have influenced many other languages including C++ python and javascript. This makes it quicker to learn other languages once you have become familiar with C. 
 
-####What Kind Of Language is C?
+#### What Kind Of Language is C?
  C is a compiled language that maps efficiently to machine instructions.  This ‘lower level’ language was first made to create the Unix Operating System in the early 1970’s.  IT is well suited for replacing applications that before would have used assembly language.  It is widely used for coding operating systems, as well as various applications for a wide range of systems, from supercomputers to small embedded systems. It has been around since the 70’s and is very standardized and stable.  Most of the code and applications on your Raspberry Pi, including Linux has been written in C. 
 
 
