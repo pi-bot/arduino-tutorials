@@ -13,7 +13,7 @@ The Arduino IDE checks the code to look for errors and it will complain if there
 Put Error Code HERE
 ```
 ### Learning robot lingo
-Machines do not yet speak English, Spanish, or other human languages.   Programming languages are made to communicate with machines and there are many programming languages that can be learnt.   Fortunately learning programming languages is much easier than learning a  languages, and it doesn't need to take long to learn the language of robots. 
+Machines do not yet speak English, Spanish, or other human languages.   Programming languages are made to communicate with machines and there are many programming languages that can be learnt.   Fortunately learning programming languages is much easier than learning human languages, and it doesn't need to take long to learn the language of robots. 
 
 All you need to do is follow the rules of the language and practice writing code.   As soon as you learn the language you'll be  commanding your robots in no time at all! 
 
