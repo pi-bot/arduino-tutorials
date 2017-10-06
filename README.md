@@ -1,7 +1,7 @@
-###Purpose:
+### Purpose:
 To create a user guide and learning content for people to learn arduino (C++) and microcontrollers with the Pi Bot.The course will be marketed under the general message of : **Build, play, and learn technology with robotics!** Build and program an awesome PiBot and learn fantastic skills: inc. programming, physical computing and robotics!
 
-###Objectives:
+### Objectives:
 Empower and educate future engineers with knowledge and skills in arduino and microcontrollers. This is in integral to the PiBot learning platform that also integrates Physical computing and robotics with the Raspberry Pi.  
 Learn physical computing and about key hardware including actuators ( lights, servo’s , stepper motors, dc motors, speakers, tft screens etc) Sensors ( distance sensors, encoders, temperature sensors etc.)
 Learn to program using a wiring ( a subset of C++). Learning to think programmatically. 
@@ -11,12 +11,12 @@ This work will integrate into a complete set of learning material that will incl
 
 I suggest the material can be developed here on GitHub.  Basic formatting can be done using Github Flavored Markdown and can be converted to HTML later. (A basic guide to the Markdown can be found [basic writing and formatting syntax:] (https://help.github.com/articles/basic-writing-and-formatting-syntax/). 
 
-###Course Content:
+### Course Content:
 The Arduino IDE will be used to **learn-by-doing** as the learner programs the microcontroller and develops robot powers!  Starting from the basics of controlling a single LED we'll progressively learn to control more and more sensors and actuators. Simultaneously the learner will develop skills in physical computing, electronics, as well as robotics and general information technology. 
 
 The goal will be to learn to command every part of the robot and do this in a co-ordinated way. This will extend to completing an API for the robot and commanding the robot from Python on the Raspberry Pi. This will enable the final task of the course that will be to control the robot remotely over the network or internet.  
 
-###Suggested Lessons: 
+### Suggested Lessons: 
 
 The lesson plan has been developed and now resides as an index to this repo.  Please see the **index.md** file for this.  For reference the initial lesson plan has been appended to the end of this page. 
 
