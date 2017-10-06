@@ -1,6 +1,6 @@
 The **goal** is to engage a learner quickly by asking them to get active in buiding a circuit and getting something working quickly. Knowledge and skills will be given as the learner progresses.
 
-####Setting Up The PiBot Learning Environment
+#### Setting Up The PiBot Learning Environment
 
 The course is to be engaged with using:
 - a working raspberry pi set up 
@@ -21,7 +21,7 @@ This course uses a customised Arduino IDE that has been pre-configured and setup
 Unless the learners are using very big or multi-monitor displays it makes sense to prepare all the learning content for delivery through a web browser.  This can then be viewed and engaged with on a separate device whether that is a laptop, or tablet computer. An Ipad or android tablet could be considered as an ideal device for this. 
 
 
-###Presentation of Content
+### Presentation of Content
 Robotics in multi-disciplined as are the skills that people increasingly value in work. For example to be a good architect communication and management skills may be just a important as drawing or technical knowledge. Increasingly its valuable to learn technology *at the same time* as other skills. This course intends to give great value by facilitating and inspiring learning in several areas at the same time.  Our task is to find the best way to present, integrate, or blend these different areas of learning together.  
 
 Whilst the delivery interface is not yet complete we can already consider make distinctions between different areas of learning. This, for example, could be then be presented on diffferent tabs. e.g.:
