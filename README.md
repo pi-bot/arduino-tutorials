@@ -30,14 +30,14 @@ I will create a good looking plan of the PiBot board.
 
 As stated the content will be made using Markdown and converted to HTML5 later for injection onto the PiBot website.
 
-##Users:  
+## Users:  
 Who is this for: future engineers and computer scientists: The content will be made for someone wanting to learn robotics, physical computing, and IT with the PiBot.  It is designed for learners from the age of 13 and upwards and should include adults as well. If the content would serve and make sense to someone like you then that would work! As the audience and user base becomes clearer and known the content can always be optimised and adjusted to suite. 
 
 
-##Delivery:
+## Delivery:
 In the first delivery phase it will be taught as part of an 8 weeks course. This will be the opportunity to test the content and get feedback from it.  The course final release will be delivered online through a web app/ website. This will be developed from now and all content will be presented as part of a website as soon as possible.  The course material will be hosted on GitHub. A convention will be made used for the text and content and the material will be automatically pushed online to a beta environment. 
 
-####Legacy Initial Lesson Plan 
+#### Legacy Initial Lesson Plan 
 1. Writing your first sketch: Make a sketch to make an LED blink
 On the breadboard connecting a resistor and led 
 Control the onboard led.   (explain the difference between breadboard components, and SMD components)
